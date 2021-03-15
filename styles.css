@@ -6,7 +6,7 @@
     --primary-color: blue;
     --dark-gray: skyblue;
     --off-color: lightgrey;
-    --secondary-color:purple;
+    --secondary-color: blue;
 
 }
 body {
@@ -110,6 +110,7 @@ hr{
 }
 .ow {
     background-color: var(--off-color);
+    padding: 0rem 1rem;
 }
 
 /** footer **/ 
@@ -122,7 +123,7 @@ hr{
     border-top-right-radius: 1rem;
 }
 .footer .link {
-    color: white;
+    color:white;
 }
 .footer ul{
     padding-inline-start: 0px;
